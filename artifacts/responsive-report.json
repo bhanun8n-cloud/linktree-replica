@@ -1,0 +1,839 @@
+{
+ "total": 60,
+ "issues": [],
+ "report": [
+  {
+   "width": "375",
+   "page": "home",
+   "url": "/",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-20 bottom-0 h-72 w-72 rounded-full",
+     "right": 455
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-max animate-marquee gap-4 hover:[animation-play-state:paused]",
+     "right": 4057
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-[240px] items-center gap-3 rounded-2xl border border-shade/10 b",
+     "right": 473
+    },
+    {
+     "tag": "div",
+     "cls": "min-w-0",
+     "right": 425
+    },
+    {
+     "tag": "p",
+     "cls": "truncate text-[13.5px] font-bold text-shade",
+     "right": 425
+    }
+   ],
+   "text": 5361,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "pricing",
+   "url": "/pricing",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-16 bottom-0 h-64 w-64 rounded-full",
+     "right": 439
+    },
+    {
+     "tag": "table",
+     "cls": "w-full min-w-[720px] border-collapse text-left",
+     "right": 740
+    },
+    {
+     "tag": "thead",
+     "cls": "",
+     "right": 740
+    },
+    {
+     "tag": "tr",
+     "cls": "",
+     "right": 740
+    },
+    {
+     "tag": "th",
+     "cls": "pb-4 pl-4 text-[12.5px] font-bold text-shade",
+     "right": 465
+    }
+   ],
+   "text": 2422,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "discover",
+   "url": "/discover",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 446
+    },
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 511
+    },
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 584
+    }
+   ],
+   "text": 1721,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "login",
+   "url": "/login",
+   "overflow": 0,
+   "wide": [],
+   "text": 274,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "profile",
+   "url": "/demo",
+   "overflow": 0,
+   "wide": [],
+   "text": 245,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "admin",
+   "url": "/admin",
+   "overflow": 1,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "absolute -right-6 -top-10 h-36 w-36 rounded-full bg-white/40 blur-2xl",
+     "right": 399
+    }
+   ],
+   "text": 1101,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "links",
+   "url": "/admin/links",
+   "overflow": 0,
+   "wide": [],
+   "text": 615,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "header",
+   "url": "/admin/header",
+   "overflow": 0,
+   "wide": [],
+   "text": 715,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "design",
+   "url": "/admin/design",
+   "overflow": 0,
+   "wide": [],
+   "text": 1004,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "insights",
+   "url": "/admin/insights",
+   "overflow": 0,
+   "wide": [],
+   "text": 921,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "audience",
+   "url": "/admin/audience",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "table",
+     "cls": "w-full text-left",
+     "right": 378
+    },
+    {
+     "tag": "thead",
+     "cls": "border-b border-shade/10 bg-chalk/60",
+     "right": 378
+    },
+    {
+     "tag": "tr",
+     "cls": "",
+     "right": 378
+    },
+    {
+     "tag": "th",
+     "cls": "px-4 py-3",
+     "right": 378
+    },
+    {
+     "tag": "tbody",
+     "cls": "divide-y divide-shade/10",
+     "right": 378
+    }
+   ],
+   "text": 597,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "earn",
+   "url": "/admin/earn",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "table",
+     "cls": "w-full min-w-[520px] text-left",
+     "right": 557
+    },
+    {
+     "tag": "thead",
+     "cls": "",
+     "right": 557
+    },
+    {
+     "tag": "tr",
+     "cls": "border-b border-shade/10",
+     "right": 557
+    },
+    {
+     "tag": "th",
+     "cls": "pb-2 text-[10px] font-bold uppercase tracking-[0.1em] text-shade/35",
+     "right": 392
+    },
+    {
+     "tag": "th",
+     "cls": "pb-2 text-[10px] font-bold uppercase tracking-[0.1em] text-shade/35",
+     "right": 476
+    }
+   ],
+   "text": 1059,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "account",
+   "url": "/admin/account",
+   "overflow": 0,
+   "wide": [],
+   "text": 2208,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "shortener",
+   "url": "/admin/link-shortener",
+   "overflow": 0,
+   "wide": [],
+   "text": 509,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "cards",
+   "url": "/admin/business-cards",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-10 -top-10 h-44 w-44 rounded-full ",
+     "right": 378
+    }
+   ],
+   "text": 634,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "mediakit",
+   "url": "/admin/media-kit",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-10 -top-16 h-52 w-52 rounded-full ",
+     "right": 398
+    }
+   ],
+   "text": 1232,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "messaging",
+   "url": "/admin/messaging",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "aside",
+     "cls": "border-shade/10 lg:border-r block",
+     "right": 440
+    },
+    {
+     "tag": "div",
+     "cls": "border-b border-shade/10 p-3.5",
+     "right": 440
+    },
+    {
+     "tag": "div",
+     "cls": "flex items-center justify-between",
+     "right": 426
+    },
+    {
+     "tag": "span",
+     "cls": "rounded-full bg-grape/10 px-2 py-0.5 text-[10px] font-bold text-grape",
+     "right": 426
+    },
+    {
+     "tag": "div",
+     "cls": "relative mt-2.5",
+     "right": 426
+    }
+   ],
+   "text": 599,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "planner",
+   "url": "/admin/social-planner",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "min-w-[560px]",
+     "right": 577
+    },
+    {
+     "tag": "div",
+     "cls": "grid grid-cols-7 border-b border-shade/10 bg-chalk/50",
+     "right": 577
+    },
+    {
+     "tag": "div",
+     "cls": "px-1.5 py-2 text-center",
+     "right": 417
+    },
+    {
+     "tag": "p",
+     "cls": "text-[9px] font-bold uppercase tracking-wide text-shade/40",
+     "right": 411
+    },
+    {
+     "tag": "p",
+     "cls": "mx-auto mt-1 grid h-6 w-6 place-items-center rounded-full text-[11px] ",
+     "right": 389
+    }
+   ],
+   "text": 859,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "igdm",
+   "url": "/admin/igdm",
+   "overflow": 0,
+   "wide": [],
+   "text": 1413,
+   "err": false
+  },
+  {
+   "width": "375",
+   "page": "ideas",
+   "url": "/admin/post-ideas",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap border-b-2 px-3 py-2 text-[11.5px] font-semibold tra",
+     "right": 426
+    },
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap border-b-2 px-3 py-2 text-[11.5px] font-semibold tra",
+     "right": 504
+    }
+   ],
+   "text": 1318,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "home",
+   "url": "/",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-20 bottom-0 h-72 w-72 rounded-full",
+     "right": 848
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-max animate-marquee gap-4 hover:[animation-play-state:paused]",
+     "right": 4060
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-[240px] items-center gap-3 rounded-2xl border border-shade/10 b",
+     "right": 988
+    },
+    {
+     "tag": "span",
+     "cls": "relative inline-flex flex-none items-center justify-center overflow-hi",
+     "right": 807
+    },
+    {
+     "tag": "span",
+     "cls": "font-display font-semibold tracking-tight text-white",
+     "right": 794
+    }
+   ],
+   "text": 5440,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "pricing",
+   "url": "/pricing",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-16 bottom-0 h-64 w-64 rounded-full",
+     "right": 832
+    }
+   ],
+   "text": 2442,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "discover",
+   "url": "/discover",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 794
+    },
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 859
+    },
+    {
+     "tag": "button",
+     "cls": "whitespace-nowrap rounded-full px-3.5 py-2 text-[12px] font-semibold t",
+     "right": 932
+    }
+   ],
+   "text": 1741,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "login",
+   "url": "/login",
+   "overflow": 0,
+   "wide": [],
+   "text": 274,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "profile",
+   "url": "/demo",
+   "overflow": 0,
+   "wide": [],
+   "text": 245,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "admin",
+   "url": "/admin",
+   "overflow": 0,
+   "wide": [],
+   "text": 1101,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "links",
+   "url": "/admin/links",
+   "overflow": 0,
+   "wide": [],
+   "text": 623,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "header",
+   "url": "/admin/header",
+   "overflow": 0,
+   "wide": [],
+   "text": 724,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "design",
+   "url": "/admin/design",
+   "overflow": 0,
+   "wide": [],
+   "text": 1012,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "insights",
+   "url": "/admin/insights",
+   "overflow": 0,
+   "wide": [],
+   "text": 921,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "audience",
+   "url": "/admin/audience",
+   "overflow": 0,
+   "wide": [],
+   "text": 637,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "earn",
+   "url": "/admin/earn",
+   "overflow": 0,
+   "wide": [],
+   "text": 1059,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "account",
+   "url": "/admin/account",
+   "overflow": 0,
+   "wide": [],
+   "text": 2208,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "shortener",
+   "url": "/admin/link-shortener",
+   "overflow": 0,
+   "wide": [],
+   "text": 509,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "cards",
+   "url": "/admin/business-cards",
+   "overflow": 0,
+   "wide": [],
+   "text": 634,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "mediakit",
+   "url": "/admin/media-kit",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-10 -top-16 h-52 w-52 rounded-full ",
+     "right": 783
+    }
+   ],
+   "text": 1228,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "messaging",
+   "url": "/admin/messaging",
+   "overflow": 0,
+   "wide": [],
+   "text": 599,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "planner",
+   "url": "/admin/social-planner",
+   "overflow": 0,
+   "wide": [],
+   "text": 859,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "igdm",
+   "url": "/admin/igdm",
+   "overflow": 0,
+   "wide": [],
+   "text": 1413,
+   "err": false
+  },
+  {
+   "width": "768",
+   "page": "ideas",
+   "url": "/admin/post-ideas",
+   "overflow": 0,
+   "wide": [],
+   "text": 1318,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "home",
+   "url": "/",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-20 bottom-0 h-72 w-72 rounded-full",
+     "right": 1505
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-max animate-marquee gap-4 hover:[animation-play-state:paused]",
+     "right": 4061
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-[240px] items-center gap-3 rounded-2xl border border-shade/10 b",
+     "right": 1501
+    },
+    {
+     "tag": "div",
+     "cls": "flex w-[240px] items-center gap-3 rounded-2xl border border-shade/10 b",
+     "right": 1757
+    },
+    {
+     "tag": "span",
+     "cls": "relative inline-flex flex-none items-center justify-center overflow-hi",
+     "right": 1576
+    }
+   ],
+   "text": 5488,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "pricing",
+   "url": "/pricing",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-16 bottom-0 h-64 w-64 rounded-full",
+     "right": 1489
+    }
+   ],
+   "text": 2490,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "discover",
+   "url": "/discover",
+   "overflow": 0,
+   "wide": [],
+   "text": 1789,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "login",
+   "url": "/login",
+   "overflow": 0,
+   "wide": [
+    {
+     "tag": "div",
+     "cls": "pointer-events-none absolute -right-16 top-24 h-64 w-64 rounded-full b",
+     "right": 1504
+    }
+   ],
+   "text": 535,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "profile",
+   "url": "/demo",
+   "overflow": 0,
+   "wide": [],
+   "text": 245,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "admin",
+   "url": "/admin",
+   "overflow": 0,
+   "wide": [],
+   "text": 1318,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "links",
+   "url": "/admin/links",
+   "overflow": 0,
+   "wide": [],
+   "text": 938,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "header",
+   "url": "/admin/header",
+   "overflow": 0,
+   "wide": [],
+   "text": 724,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "design",
+   "url": "/admin/design",
+   "overflow": 0,
+   "wide": [],
+   "text": 1012,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "insights",
+   "url": "/admin/insights",
+   "overflow": 0,
+   "wide": [],
+   "text": 1138,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "audience",
+   "url": "/admin/audience",
+   "overflow": 0,
+   "wide": [],
+   "text": 854,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "earn",
+   "url": "/admin/earn",
+   "overflow": 0,
+   "wide": [],
+   "text": 1276,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "account",
+   "url": "/admin/account",
+   "overflow": 0,
+   "wide": [],
+   "text": 2521,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "shortener",
+   "url": "/admin/link-shortener",
+   "overflow": 0,
+   "wide": [],
+   "text": 726,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "cards",
+   "url": "/admin/business-cards",
+   "overflow": 0,
+   "wide": [],
+   "text": 851,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "mediakit",
+   "url": "/admin/media-kit",
+   "overflow": 0,
+   "wide": [],
+   "text": 1445,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "messaging",
+   "url": "/admin/messaging",
+   "overflow": 0,
+   "wide": [],
+   "text": 1216,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "planner",
+   "url": "/admin/social-planner",
+   "overflow": 0,
+   "wide": [],
+   "text": 1076,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "igdm",
+   "url": "/admin/igdm",
+   "overflow": 0,
+   "wide": [],
+   "text": 1630,
+   "err": false
+  },
+  {
+   "width": "1440",
+   "page": "ideas",
+   "url": "/admin/post-ideas",
+   "overflow": 0,
+   "wide": [],
+   "text": 1535,
+   "err": false
+  }
+ ]
+}
